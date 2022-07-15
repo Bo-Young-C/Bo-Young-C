@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##안녕하세요!! 만나서 반갑습니다~😄 
+## 안녕하세요!! 만나서 반갑습니다~😄 
 <!--
 **Bo-Young-C/Bo-Young-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
